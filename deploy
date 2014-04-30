@@ -1,0 +1,10 @@
+#!/bin/bash
+
+./build
+
+cd ../build
+git add -A
+git ci -m "update build"
+git push origin gh-pages
+
+open http://filtercake.com/try-out-all-the-things/
