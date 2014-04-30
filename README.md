@@ -1,3 +1,5 @@
 # Try out all the things
 
-![](images/tryruby.gif)
+## Ruby 
+
+[![Try Ruby!](images/tryruby.gif)](http://tryruby.org)
