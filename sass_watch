@@ -1,0 +1,8 @@
+sass_watch
+
+# first recompile everything to catch diffs and generate up-to-date source maps
+echo "\n  Recompile all the the things...  \n"
+bundle exec sass --watch ./:./../build/ --style compact --sourcemap --update --force
+
+# then start the normal watch task
+bundle exec sass --watch ./:./../build/ --style compact --sourcemap

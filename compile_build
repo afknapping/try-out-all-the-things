@@ -1,0 +1,30 @@
+
+
+# clean line
+#echo \n
+
+# cop images
+echo "copying images"
+cp images/* ../build/images
+
+# write head
+echo "writing head"
+cat _head.html > ../build/index.html 
+
+# compile html
+echo "writing body"
+md2html README.md >> ../build/index.html
+
+# write footer
+cat _footer.html >> ../build/index.html 
+
+# compile sass
+echo "writing css"
+# cp index.css ../build/index.css
+node-sass --source-comments map index.scss ../build/index.css
+echo "done"
+# open
+
+open ../build/index.html
+
+# watch task

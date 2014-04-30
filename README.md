@@ -1,2 +1,3 @@
-try-out-all-the-things
-======================
+# Try out all the things
+
+![](images/tryruby.gif)

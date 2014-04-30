@@ -1,0 +1,24 @@
+{
+  "name": "try-out-all-the-things",
+  "version": "0.0.1",
+  "description": "try-out-all-the-things ======================",
+  "main": "index.js",
+  "dependencies": {
+    "markdown": "^0.5.0",
+    "node-sass": "^0.8.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/filtercake/try-out-all-the-things.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filtercake/try-out-all-the-things/issues"
+  },
+  "homepage": "https://github.com/filtercake/try-out-all-the-things"
+}
