@@ -1,0 +1,19 @@
+{
+  "name": "try-out-all-the-things",
+  "version": "0.0.0",
+  "homepage": "https://github.com/filtercake/try-out-all-the-things",
+  "authors": [
+    "filtercake <fabian@superpursuitmo.de>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "~3.0.1"
+  }
+}
