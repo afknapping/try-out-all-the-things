@@ -1,9 +1,11 @@
 body {
   background: red;
+  max-width: 100%;
 }
 
 img {
   border: 4px dotted black;
+  max-width: 100%;
 }
 img::before {
     content: attr(href);
