@@ -20,6 +20,8 @@ cat _footer.html >> ../build/index.html
 
 # compile sass
 echo "writing css"
+# copy imports
+cp bower_components/normalize.css/normalize.css _normalize.scss
 # cp index.css ../build/index.css
 node-sass --source-comments map index.scss ../build/index.css
 echo "done"
