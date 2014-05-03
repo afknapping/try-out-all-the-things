@@ -29,4 +29,5 @@ echo "done"
 
 open ../build/index.html
 
-# watch task
+# write CNAME
+echo "tryoutallthethings.org" > ../build/CNAME
