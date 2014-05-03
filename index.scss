@@ -1,12 +1,17 @@
 @import "normalize";
+@import "bower_components/faster-colors/faster-colors";
 
 body {
   // background: red;
   max-width: 100%;
-  padding: 1em
+  padding: 1em;
 }
 
 img {
   // border: 4px dotted black;
   max-width: 100%;
+}
+
+p {
+    @include aqua;
 }
