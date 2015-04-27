@@ -1,6 +1,6 @@
 # Try out all the things
 
-A collection of interactive, beginner-friendly, browser-based learning resources.
+A collection of guided, interactive, beginner-friendly, browser-based learning resources.
 
 - [JavaScript](#javascript)
 - [CSS](#css)
