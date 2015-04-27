@@ -19,7 +19,7 @@ If you know something I should add, [tell me about it](https://github.com/filter
 
 ### [Smooth CoffeeScript](https://autotelicum.github.io/Smooth-CoffeeScript/) / [Eloquent JavaScript](http://eloquentjavascript.net/)
 
-[![image](images/offeescript.png.png)](https://autotelicum.github.io/Smooth-CoffeeScript/)
+[![image](images/offeescript.png)](https://autotelicum.github.io/Smooth-CoffeeScript/)
 
 
 
