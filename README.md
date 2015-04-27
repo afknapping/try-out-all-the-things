@@ -15,7 +15,7 @@ If you know something I should add, [tell me about it](https://github.com/filter
 
 ### [Elevator Saga - the elevator programming game](http://play.elevatorsaga.com/)
 
-[![image](images/elevatorsaga.png)](http://play.elevatorsaga.com/)
+[![image](images/elevatorsaga.gif)](http://play.elevatorsaga.com/)
 
 ### [Smooth CoffeeScript](https://autotelicum.github.io/Smooth-CoffeeScript/) / [Eloquent JavaScript](http://eloquentjavascript.net/)
 
