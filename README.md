@@ -3,9 +3,9 @@
 A collection of interactive, beginner-friendly, browser-based learning resources.
 
 - [JavaScript](#javascript)
-- CSS
-- Git
-- Ruby
+- [CSS](#css)
+- [Git](#css)
+- [Ruby](#ruby)
 
 If you know something I should add, [tell me about it](https://github.com/filtercake/try-out-all-the-things/issues/new).
 
@@ -19,7 +19,7 @@ If you know something I should add, [tell me about it](https://github.com/filter
 
 [Smooth CoffeeScript](https://autotelicum.github.io/Smooth-CoffeeScript/) / [Eloquent JavaScript](http://eloquentjavascript.net/)
 
-![image](https://cloud.githubusercontent.com/assets/170145/7344810/78319096-eccf-11e4-9d0a-5dc0c91a9011.png)
+[![image](https://cloud.githubusercontent.com/assets/170145/7344810/78319096-eccf-11e4-9d0a-5dc0c91a9011.png)](https://autotelicum.github.io/Smooth-CoffeeScript/)
 
 
 
@@ -27,13 +27,13 @@ If you know something I should add, [tell me about it](https://github.com/filter
 
 [CSS Diner](http://flukeout.github.io/)
 
-![CSS Diner](images/cssdiner.gif)
+[![CSS Diner](images/cssdiner.gif)](http://flukeout.github.io/)
 
 ## Git
 
 [Try Git](https://try.github.io/levels/1/challenges/1)
 
-![Try Git](images/trygit.gif)
+[![Try Git](images/trygit.gif)](https://try.github.io/levels/1/challenges/1)
 
 
 
@@ -42,4 +42,4 @@ If you know something I should add, [tell me about it](https://github.com/filter
 
 [Try Ruby](http://tryruby.org/)
 
-![](images/tryruby.gif)](http://tryruby.org)
+[![](images/tryruby.gif)](http://tryruby.org)](http://tryruby.org/)
