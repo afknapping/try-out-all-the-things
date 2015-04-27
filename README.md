@@ -1,10 +1,27 @@
 # Try out all the things
 
-## Ruby 
+A collection of interactive, beginner-friendly, browser-based learning resources.
 
-[Try Ruby](http://tryruby.org/)
+- [JavaScript](#javascript)
+- CSS
+- Git
+- Ruby
 
-![](images/tryruby.gif)](http://tryruby.org)
+If you know something I should add, [tell me about it](https://github.com/filtercake/try-out-all-the-things/issues/new).
+
+---
+
+## JavaScript
+
+[Elevator Saga - the elevator programming game](http://play.elevatorsaga.com/)
+
+![image](https://cloud.githubusercontent.com/assets/170145/7344775/1b804068-eccf-11e4-9fa8-88c1bb171dd5.png)
+
+[Smooth CoffeeScript](https://autotelicum.github.io/Smooth-CoffeeScript/) / [Eloquent JavaScript](http://eloquentjavascript.net/)
+
+![image](https://cloud.githubusercontent.com/assets/170145/7344810/78319096-eccf-11e4-9d0a-5dc0c91a9011.png)
+
+
 
 ## CSS
 
@@ -19,12 +36,10 @@
 ![Try Git](images/trygit.gif)
 
 
-## JS
 
-[Elevator Saga - the elevator programming game](http://play.elevatorsaga.com/)
 
-![image](https://cloud.githubusercontent.com/assets/170145/7344775/1b804068-eccf-11e4-9fa8-88c1bb171dd5.png)
+## Ruby 
 
-[Smooth CoffeeScript](https://autotelicum.github.io/Smooth-CoffeeScript/) / [Eloquent JavaScript](http://eloquentjavascript.net/)
+[Try Ruby](http://tryruby.org/)
 
-![image](https://cloud.githubusercontent.com/assets/170145/7344810/78319096-eccf-11e4-9d0a-5dc0c91a9011.png)
+![](images/tryruby.gif)](http://tryruby.org)
