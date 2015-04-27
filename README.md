@@ -48,3 +48,11 @@ If you know something I should add, [tell me about it](https://github.com/filter
 ### [Ruby Warrior](https://www.bloc.io/ruby-warrior/)
 
 [ ![](images/rubywarrior.gif) ](http://tryruby.org/)
+
+
+<style>
+<!-- this page is just a link list, so remove the download buttons -->
+.btn {
+  display: none;
+}
+</style>
