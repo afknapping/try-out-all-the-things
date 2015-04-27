@@ -2,16 +2,29 @@
 
 ## Ruby 
 
-[![Try Ruby](images/tryruby.gif)](http://tryruby.org)
+[Try Ruby](http://tryruby.org/)
+
+![](images/tryruby.gif)](http://tryruby.org)
 
 ## CSS
 
-[![CSS Diner](images/cssdiner.gif)](http://flukeout.github.io/)
+[CSS Diner](http://flukeout.github.io/)
+
+![CSS Diner](images/cssdiner.gif)
 
 ## Git
 
-[![Try Git](images/trygit.gif)](https://try.github.io/)
+[Try Git](https://try.github.io/levels/1/challenges/1)
 
-## Something missing?
+![Try Git](images/trygit.gif)
 
-Issues and PRs at: dösfjsfj
+
+## JS
+
+[Elevator Saga - the elevator programming game](http://play.elevatorsaga.com/)
+
+![image](https://cloud.githubusercontent.com/assets/170145/7344775/1b804068-eccf-11e4-9fa8-88c1bb171dd5.png)
+
+[Smooth CoffeeScript](https://autotelicum.github.io/Smooth-CoffeeScript/) / [Eloquent JavaScript](http://eloquentjavascript.net/)
+
+![image](https://cloud.githubusercontent.com/assets/170145/7344810/78319096-eccf-11e4-9d0a-5dc0c91a9011.png)
