@@ -13,9 +13,9 @@ If you know something I should add, [tell me about it](https://github.com/filter
 
 ## JavaScript
 
-[Elevator Saga - the elevator programming game](http://play.elevatorsaga.com/)
+### [Elevator Saga - the elevator programming game](http://play.elevatorsaga.com/)
 
-![image](https://cloud.githubusercontent.com/assets/170145/7344775/1b804068-eccf-11e4-9fa8-88c1bb171dd5.png)
+[![image](https://cloud.githubusercontent.com/assets/170145/7344775/1b804068-eccf-11e4-9fa8-88c1bb171dd5.png)](http://play.elevatorsaga.com/)
 
 [Smooth CoffeeScript](https://autotelicum.github.io/Smooth-CoffeeScript/) / [Eloquent JavaScript](http://eloquentjavascript.net/)
 
