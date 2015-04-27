@@ -49,10 +49,7 @@ If you know something I should add, [tell me about it](https://github.com/filter
 
 [ ![](images/rubywarrior.gif) ](http://tryruby.org/)
 
+### [Ruby Koans](http://koans.herokuapp.com/en)
 
-<style>
-<!-- this page is just a link list, so remove the download buttons -->
-.btn {
-  display: none;
-}
-</style>
+[ ![](images/rubykoans.gif) ](http://koans.herokuapp.com/en)
+
