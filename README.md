@@ -40,6 +40,11 @@ If you know something I should add, [tell me about it](https://github.com/filter
 
 ## Ruby 
 
-### [Try Ruby](http://tryruby.org/)
+### [Try Ruby](http://tryruby.org/)]
 
-[![](images/tryruby.gif)](http://tryruby.org)](http://tryruby.org/)
+[ ![](images/tryruby.gif) ](http://tryruby.org/)
+
+
+### [Ruby Warrior](https://www.bloc.io/ruby-warrior/)
+
+[ ![](images/rubywarrior.gif) ](http://tryruby.org/)
