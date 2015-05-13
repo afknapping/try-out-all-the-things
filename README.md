@@ -29,6 +29,8 @@ If you know something I should add, [tell me about it](https://github.com/filter
 
 [![CSS Diner](images/cssdiner.gif)](http://flukeout.github.io/)
 
+Not interactive, but related and awesome: [CSS Specificity](http://cssspecificity.com/)
+
 ## Git
 
 ### [Try Git](https://try.github.io/levels/1/challenges/1)
