@@ -55,3 +55,11 @@ Not interactive, but related and awesome: [CSS Specificity](http://cssspecificit
 
 [ ![](images/rubykoans.gif) ](http://koans.herokuapp.com/en)
 
+<style>
+<!-- this page is just a link list, so remove the download buttons -->
+.btn {
+  display: none;
+}
+</style>
+
+
