@@ -1,11 +1,14 @@
 # Try out all the things
 
-A collection of guided, interactive, beginner-friendly, browser-based learning resources.
+A collection of beginner-friendly, browser-based learning resources (some are even ~~intergalactic~~ interactive)
+
+
 
 - [JavaScript](#javascript)
 - [CSS](#css)
 - [Git](#css)
 - [Ruby](#ruby)
+- [Network](#network)
 
 If you know something I should add, [tell me about it](https://github.com/filtercake/try-out-all-the-things/issues/new).
 
@@ -62,4 +65,9 @@ Not interactive, but related and awesome: [CSS Specificity](http://cssspecificit
 }
 </style>
 
+## Network
 
+### [How DNS works](https://howdns.works/)
+
+
+[ ![image](https://cloud.githubusercontent.com/assets/170145/8761087/511d8762-2d3e-11e5-812d-dbe40807c755.png) ](https://howdns.works/)
