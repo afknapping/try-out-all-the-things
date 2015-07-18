@@ -32,7 +32,13 @@ If you know something I should add, [tell me about it](https://github.com/filter
 
 [![CSS Diner](images/cssdiner.gif)](http://flukeout.github.io/)
 
-Not interactive, but related and awesome: [CSS Specificity](http://cssspecificity.com/)
+
+
+### [CSS Specificity](http://cssspecificity.com/)
+
+[ ![image](https://cloud.githubusercontent.com/assets/170145/8761092/d22bb6a8-2d3e-11e5-978e-667fdeed2aac.png) ](http://cssspecificity.com/)
+
+
 
 ## Git
 
