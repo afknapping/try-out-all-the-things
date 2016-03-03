@@ -1,6 +1,6 @@
 # Try out all the things
 
-A collection of beginner-friendly, browser-based learning resources (some are even ~~intergalactic~~ interactive)
+A collection of beginner-friendly, browser-based learning resources (some are even interactive)
 
 
 
