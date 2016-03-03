@@ -34,7 +34,8 @@ If you know something I should add, [tell me about it](https://github.com/filter
 
 ### [Flexbox Froggy](http://flexboxfroggy.com/)
 
-[ ![Flexbox Froggy](images/flexbox-froggy.png)](http://flexboxfroggy.com/)
+[ ![Flexbox Froggy](https://cloud.githubusercontent.com/assets/170145/13507203/f260b692-e181-11e5-962a-231feee54345.png)](http://flexboxfroggy.com/)
+
 
 ### [CSS Specificity](http://cssspecificity.com/)
 
