@@ -32,7 +32,9 @@ If you know something I should add, [tell me about it](https://github.com/filter
 
 [![CSS Diner](images/cssdiner.gif)](http://flukeout.github.io/)
 
+### [Flexbox Froggy](http://flexboxfroggy.com/)
 
+[ ![Flexbox Froggy](images/flexbox-froggy.png)](http://flexboxfroggy.com/)
 
 ### [CSS Specificity](http://cssspecificity.com/)
 
