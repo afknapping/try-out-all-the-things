@@ -67,12 +67,6 @@ If you know something I should add, [tell me about it](https://github.com/filter
 
 [ ![](images/rubykoans.gif) ](http://koans.herokuapp.com/en)
 
-<style>
-<!-- this page is just a link list, so remove the download buttons -->
-.btn {
-  display: none;
-}
-</style>
 
 ## Network
 
