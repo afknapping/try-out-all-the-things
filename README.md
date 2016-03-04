@@ -74,5 +74,3 @@ If you know something I should add, [tell me about it](https://github.com/filter
 
 
 [ ![image](https://cloud.githubusercontent.com/assets/170145/8761087/511d8762-2d3e-11e5-812d-dbe40807c755.png) ](https://howdns.works/)
-
-<style> a.button { display: none !important; } #main_content h1:first-of-type, #main_content p:first-of-type { display: none; } </style>```
