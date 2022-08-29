@@ -74,3 +74,5 @@ If you know something I should add, [tell me about it](https://github.com/filter
 
 
 [ ![image](https://cloud.githubusercontent.com/assets/170145/8761087/511d8762-2d3e-11e5-812d-dbe40807c755.png) ](https://howdns.works/)
+
+<link rel="stylesheet" href="https://afknapping.de/css.css">
