@@ -14,16 +14,21 @@ If you know something I should add, [tell me about it](https://github.com/filter
 
 ---
 
+
+
 ## JavaScript
 
 ### [Elevator Saga - the elevator programming game](http://play.elevatorsaga.com/)
 
 [![image](images/elevatorsaga.gif)](http://play.elevatorsaga.com/)
 
+
+<!--
 ### [Smooth CoffeeScript](https://autotelicum.github.io/Smooth-CoffeeScript/) / [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 [![image](images/offeescript.png)](https://autotelicum.github.io/Smooth-CoffeeScript/)
 
+-->
 
 
 ## CSS
@@ -37,11 +42,12 @@ If you know something I should add, [tell me about it](https://github.com/filter
 [ ![Flexbox Froggy](https://cloud.githubusercontent.com/assets/170145/13507203/f260b692-e181-11e5-962a-231feee54345.png)](http://flexboxfroggy.com/)
 
 
-### [CSS Specificity](http://cssspecificity.com/)
+### [CSS Specificity]([http://cssspecificity.com/](https://web.archive.org/web/20210612145931/http://cssspecificity.com/))
 
-[ ![image](https://cloud.githubusercontent.com/assets/170145/8761092/d22bb6a8-2d3e-11e5-978e-667fdeed2aac.png) ](http://cssspecificity.com/)
+[ ![image](https://cloud.githubusercontent.com/assets/170145/8761092/d22bb6a8-2d3e-11e5-978e-667fdeed2aac.png) ]([http://cssspecificity.com/](https://web.archive.org/web/20210612145931/http://cssspecificity.com/))
 
 
+<!--
 
 ## Git
 
@@ -49,15 +55,17 @@ If you know something I should add, [tell me about it](https://github.com/filter
 
 [![Try Git](images/trygit.gif)](https://try.github.io/levels/1/challenges/1)
 
-
+-->
 
 
 ## Ruby 
 
-### [Try Ruby](http://tryruby.org/)]
+### [Try Ruby]([http://tryruby.org/](https://try.ruby-lang.org/))
 
-[ ![](images/tryruby.gif) ](http://tryruby.org/)
+[ ![](images/tryruby.gif) ]([http://tryruby.org/](https://try.ruby-lang.org/))
 
+
+<!-- 
 
 ### [Ruby Warrior](https://www.bloc.io/ruby-warrior/)
 
@@ -67,6 +75,7 @@ If you know something I should add, [tell me about it](https://github.com/filter
 
 [ ![](images/rubykoans.gif) ](http://koans.herokuapp.com/en)
 
+-->
 
 ## Network
 
